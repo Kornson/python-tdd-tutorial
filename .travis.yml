@@ -1,0 +1,7 @@
+langage : python
+python:
+- 3.7
+- 2.7
+script:
+- python test_random.py
+- python test_tennis.py
